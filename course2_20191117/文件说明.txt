@@ -1,0 +1,8 @@
+a0_python: python基本语法练习
+a1_python_lib: python基本库使用
+a3_feature_engineering: 特征工程练习
+a4_model_load: 模型加载练习
+a5_PCA: 降维练习
+a6_visualize：可视化
+a7_param_search：参数搜索练习
+a8_titanic：泰坦尼克实践

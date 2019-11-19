@@ -1,0 +1,21 @@
+virtualenv
+https://blog.csdn.net/hohaizx/article/details/78375238
+
+> conda info --envs
+# conda environments:
+#
+test                     C:\Users\\AppData\Local\conda\conda\envs\test
+root                  *  C:\Program Files\Anaconda3
+
+
+
+C:\Users\>activate test
+
+(root) C:\Users\>deactivate test
+
+C:\Users\>activate test
+
+(test) C:\Users\>
+
+
+然后pip list查询结果。应该是不一样的。
